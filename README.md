@@ -1,4 +1,4 @@
-## Check it out here → https://sueszli.github.io/onetab-scraper/
+check it out: https://sueszli.github.io/onetab-scraper/
 
 <br>
 
